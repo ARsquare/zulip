@@ -30,9 +30,9 @@ span.emoji
 {
     display: inline-block;
     background-image: url('sheet-%(emojiset)s-64.png');
-    -webkit-background-size: 5200%%;
-    -moz-background-size: 5200%%;
-    background-size: 5200%%;
+    -webkit-background-size: 5700%%;
+    -moz-background-size: 5700%%;
+    background-size: 5700%%;
     background-repeat: no-repeat;
 
     /* Hide the text. */
